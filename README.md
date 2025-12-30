@@ -7,9 +7,9 @@
 Скриншоты рабочего окна для настроки коэфициентов - screen
 
 Список оборудования:
-Микроконтроллер ESP32	1	140	140	https://ali.click/xsw2to
+Микроконтроллер ESP32 https://ali.click/xsw2to
 
-Модуль АЦП ADS1115	8	90	720	https://ali.click/evw2t8
+Модуль АЦП ADS1115 https://ali.click/evw2t8
 
 Релейный модуль с управлением по Modbus https://ozon.ru/t/6jMEk3t
 
